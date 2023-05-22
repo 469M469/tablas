@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.slide>*{
+    height: 30vh;
+}
+.slide>img{
+    height: 30vh;
+}
